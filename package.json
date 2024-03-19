@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "author": "Jack Perrin",
-  "private": true,
+  "private": false,
   "license": "UNLICENSED",
   "repository": {
     "type": "git",
