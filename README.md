@@ -1,4 +1,6 @@
-#Me-api
+# Me-api
+
+![Build Pipeline badge](https://github.com/perrinjack/me-api/actions/workflows/github-actions.yml/badge.svg)
 
 ## Description
 
@@ -26,16 +28,10 @@ $ npm run start:prod
 ## Test
 
 ```bash
-# unit tests
-$ npm run test
-
 # e2e tests
 $ npm run test:e2e
-
-# test coverage
-$ npm run test:cov
 ```
 
 ## Stay in touch
 
-- Author - [Jack Perrin](https://kamilmysliwiec.com)
+- Author - [Jack Perrin](https://www.linkedin.com/in/perrinjack/)
