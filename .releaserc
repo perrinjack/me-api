@@ -4,6 +4,12 @@
   ],
   "plugins": [
     [
+      "@semantic-release/commit-analyzer",
+      {
+        "preset": "angular"
+      }
+    ],
+    [
       "@semantic-release/git",
       {
         "message": "chore(release): ${nextRelease.version} [skip ci]"
