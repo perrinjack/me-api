@@ -1,10 +1,10 @@
 # Me-api
 
-Simple Nest.Js Api with CI/CD pipleine.
-
 ![Build Pipeline badge](https://github.com/perrinjack/me-api/actions/workflows/github-actions.yml/badge.svg)
 
 ## Description
+
+Simple Nest.Js Api with CI/CD pipleine.
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
