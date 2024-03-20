@@ -6,7 +6,7 @@
     [
       "@semantic-release/commit-analyzer",
       {
-        "preset": "angular"
+        "preset": "eslint"
       }
     ],
     [
