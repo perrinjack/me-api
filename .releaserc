@@ -8,6 +8,7 @@
       {
         "message": "chore(release): ${nextRelease.version} [skip ci]"
       }
-    ]
+    ],
+    "@semantic-release/npm"
   ]
 }
