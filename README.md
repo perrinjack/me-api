@@ -38,4 +38,4 @@ $ npm run test:e2e
 
 - Author - [Jack Perrin](https://www.linkedin.com/in/perrinjack/)
 
-- Uses eslint conventional commit format
+- Uses eslint conventional commit format.
