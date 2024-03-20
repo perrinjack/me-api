@@ -37,3 +37,5 @@ $ npm run test:e2e
 ## Stay in touch
 
 - Author - [Jack Perrin](https://www.linkedin.com/in/perrinjack/)
+
+- Uses eslint conventional commit format
