@@ -8,6 +8,10 @@ Simple Nest.Js Api with CI/CD pipleine.
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
+```bash
+curl http://find-out-more.eu-west-1.elasticbeanstalk.com/dev/jack-perrin
+```
+
 ## Installation
 
 ```bash
@@ -37,5 +41,3 @@ $ npm run test:e2e
 ## Stay in touch
 
 - Author - [Jack Perrin](https://www.linkedin.com/in/perrinjack/)
-
-- Uses eslint conventional commit format.
