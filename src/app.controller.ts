@@ -9,4 +9,9 @@ export class AppController {
   getCV() {
     return CvResponse;
   }
+
+  @Get('monitor/version')
+  getVersion() {
+    return process.env.npm_package_version || '0.0.1';
+  }
 }
