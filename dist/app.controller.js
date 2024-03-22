@@ -17,6 +17,9 @@ let AppController = class AppController {
     getCV() {
         return response_1.CvResponse;
     }
+    getVersion() {
+        return process.env.npm_package_version || '0.0.1';
+    }
 };
 exports.AppController = AppController;
 __decorate([
@@ -25,6 +28,12 @@ __decorate([
     __metadata("design:paramtypes", []),
     __metadata("design:returntype", void 0)
 ], AppController.prototype, "getCV", null);
+__decorate([
+    (0, common_1.Get)('monitor/version'),
+    __metadata("design:type", Function),
+    __metadata("design:paramtypes", []),
+    __metadata("design:returntype", void 0)
+], AppController.prototype, "getVersion", null);
 exports.AppController = AppController = __decorate([
     (0, common_1.Controller)(),
     __metadata("design:paramtypes", [])

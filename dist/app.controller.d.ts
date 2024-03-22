@@ -45,4 +45,5 @@ export declare class AppController {
         }[];
         skills_activities_interests: string[];
     };
+    getVersion(): string;
 }
