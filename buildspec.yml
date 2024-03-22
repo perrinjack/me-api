@@ -1,0 +1,10 @@
+# Do not change version. This is the version of aws buildspec, not the version of your buldspec file.
+# Used as an example for another project
+version: 0.2
+
+phases:
+  install:
+    runtime-versions:
+      nodejs: 20
+    commands:
+      - npm install
